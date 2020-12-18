@@ -1,4 +1,4 @@
-<h2>Hi🙏🏻, I'm Pham The Giau!</h2>
+<h2>Hi🙏🏻, I'm The Giau Pham !</h2>
 <p>
 <img align='right' src="https://media.giphy.com/media/UAUtB4Oi9U4EM/giphy.gif" width="300">
 <em>Student at <a href="http://vimaru.edu.vn">VIMARU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
