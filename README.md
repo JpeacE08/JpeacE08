@@ -14,7 +14,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jpeace_08?label=Follow)](https://twitter.com/jpeace_08)
 ![GitHub followers](https://img.shields.io/github/followers/jpeace08?label=Follow&style=social)
-[![Facebook Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=badge&logo=messenger&logoColor=white)](https://www.facebook.com/messages/t/jpeace08)
 
 ###
 
@@ -24,7 +23,4 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
+[0810]('https://img.shields.io/badge/Messenger-00B2FF?style=badge&logo=messenger&logoColor=white)](https://www.facebook.com/messages/t/jpeace08')
