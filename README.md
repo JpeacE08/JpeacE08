@@ -11,7 +11,6 @@
 [![Medium Badge](https://img.shields.io/badge/-@phamgiau2024-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@phamgiau2024)](https://medium.com/@phamgiau2024)
 [![Gmail Badge](https://img.shields.io/badge/-phamgiau2024@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phamgiau2024@gmail.com)](mailto:phamgiau2024@gmail.com)
 
-![GitHub followers](https://img.shields.io/github/followers/jpeace08?label=Follow&style=social)
 
 ###
 
