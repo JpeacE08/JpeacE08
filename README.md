@@ -6,10 +6,7 @@
 </p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-jpeace08-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giauphamthe08/)](https://www.linkedin.com/in/pham-the-giau-301a731bb/)
-[![Youtube Badge](https://img.shields.io/badge/-jpeace08-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZlXqy3TLbGWceO8ZARR4TQ)](https://www.youtube.com/channel/UCZlXqy3TLbGWceO8ZARR4TQ)
-[![Medium Badge](https://img.shields.io/badge/-@phamgiau2024-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@phamgiau2024)](https://medium.com/@phamgiau2024)
-[![Gmail Badge](https://img.shields.io/badge/-phamgiau2024@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phamgiau2024)](mailto:phamgiau2024@gmail.com)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="giauphamthe08" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/giauphamthe08?trk=profile-badge">Pham The Giau</a></div>
 
 
 ###
